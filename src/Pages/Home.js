@@ -17,7 +17,7 @@ const Home = () => {
                           className="cd-words-wrapper"
                           style={{ width: "266px", overflow: "hidden" }}
                         >
-                          <b className="is-hidden">Sanajit Jana</b>
+                          <b className="is-hidden">Warito Kichiro</b>
                           <b className="is-hidden">Designer</b>
                           <b className="is-visible">Developer</b>
                         </span>
