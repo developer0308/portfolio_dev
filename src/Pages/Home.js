@@ -318,12 +318,12 @@ const Home = () => {
                           aria-hidden="true"
                         ></i>
                         <h3>School</h3>
-                        <h2>2010-2017</h2>
+                        <h2>2007-2013</h2>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Completed my school life from Haludbari High School
-                          (H.S.), Khejuri, West Bengal, India.
+                          Completed my school life from Azabu High School
+                          181-0013 Shimo Renjaku, Mitaka-shi, Tokyo, Japan
                         </p>
                       </div>
                     </div>
@@ -336,21 +336,20 @@ const Home = () => {
                           className="fa fa-graduation-cap resume-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Graduation</h3>
-                        <h2>2017-2020</h2>
+                        <h3>Graduation from University of Tsukuba</h3>
+                        <h2>2013-2018</h2>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Achieved my Graduation Degree from{" "}
+                          Major and Degree{" "}
                           <a
-                            href="https://www.cclms.org/"
+                            href="#"
                             target="_blank"
                             rel="noopener noreferrer"
                           >
-                            CCLMS (Contai College of Learning and Management
-                            Science)
+                            INFORMATION TECHNOLOGY AND SCIENCE 
+                            && Bachelor in Computer Science
                           </a>
-                          , Contai, West Bengal, India.
                         </p>
                       </div>
                     </div>
@@ -363,20 +362,19 @@ const Home = () => {
                           className="fa fa-graduation-cap resume-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Training &amp; Skill</h3>
-                        <h2>2022-2022</h2>
+                        <h3>Training & Skill</h3>
+                        <h2>2018-2020</h2>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Currently learning Full-Stack Web Development from{" "}
+                          Currently learning Full-Stack Web Development and AI from{" "}
                           <a
-                            href="https://masaischool.com/"
+                            href="#"
                             target="_blank"
                             rel="noopener noreferrer"
                           >
-                            Masai School
+                            Information Sciences and Electronics Institute
                           </a>
-                          , Bengaluru, India.
                         </p>
                       </div>
                     </div>
