@@ -452,6 +452,63 @@ const Home = () => {
                       </div>
                     </div>
                   </div>
+                  
+                  <div className="col-md-6 col-sm-12">
+                    <div className="exp-details" data-wow-delay=".2s">
+                      <div className="exp-hover"></div>
+                      <div className="exp-main">
+                        <i
+                          className="fa fa-building exp-icon"
+                          aria-hidden="true"
+                        ></i>
+                        <h3>
+                          <a
+                            href="https://lightning.ai/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            style={{ color: "#4d4d4d" }}
+                          >
+                            community studio
+                          </a>
+                        </h3>
+                        <h4>Project Manager</h4>
+                        <h2>2019-2021</h2>
+                        <div className="underline1"></div>
+                        <div className="underline2"></div>
+                        <p>
+                          I was working on project manager at community studio project
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="col-md-6 col-sm-12">
+                    <div className="exp-details" data-wow-delay=".3s">
+                      <div className="exp-hover"></div>
+                      <div className="exp-main">
+                        <i
+                          className="fa fa-building exp-icon"
+                          aria-hidden="true"
+                        ></i>
+                        <h3>
+                          <a
+                            href="https://chehra.ai/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            style={{ color: "#4d4d4d" }}
+                          >
+                            AI virtual influencer
+                          </a>
+                        </h3>
+                        <h4>Web Developer</h4>
+                        <h2>2021-2022</h2>
+                        <div className="underline1"></div>
+                        <div className="underline2"></div>
+                        <p>
+                          At "AI virtual influencer" project, I was working as a backend engine developer
+                        </p>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -977,7 +1034,7 @@ const Home = () => {
                     </div>
                   </div>
                 </div>
-                <div class="container-fluid map-col">
+                {/* <div class="container-fluid map-col">
                   <div class="col-md-12 col-sm-12 map-col">
                     <div class="google-maps">
                       <div class="map-wrap">
@@ -994,7 +1051,7 @@ const Home = () => {
                       </div>
                     </div>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
