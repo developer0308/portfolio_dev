@@ -18,66 +18,10 @@ const Home = () => {
                           style={{ width: "266px", overflow: "hidden" }}
                         >
                           <b className="is-hidden">Warito Kichiro</b>
-                          <b className="is-hidden">Designer</b>
-                          <b className="is-visible">Developer</b>
+                          <b className="is-hidden">AI Engineer</b>
+                          <b className="is-visible">Full Stack Developer</b>
                         </span>
                       </h1>
-                      <div className="about-social-icon text-center">
-                        <ul className="about-social">
-                          <li className="wow fadeIn" data-wow-delay=".4s">
-                            <a
-                              href="https://www.linkedin.com/in/sanajitjana01"
-                              target="newtab"
-                            >
-                              <i
-                                className="fa fa-linkedin"
-                                aria-hidden="true"
-                              ></i>
-                            </a>
-                          </li>
-                          <li className="wow fadeIn" data-wow-delay=".2s">
-                            <a
-                              href="https://github.com/sanajitjana"
-                              target="newtab"
-                            >
-                              <i
-                                className="fa fa-github"
-                                aria-hidden="true"
-                              ></i>
-                            </a>
-                          </li>
-                          <li className="wow fadeIn" data-wow-delay=".6s">
-                            <a
-                              href="https://www.instagram.com/sanajitjana01/"
-                              target="newtab"
-                            >
-                              <i
-                                className="fa fa-instagram"
-                                aria-hidden="true"
-                              ></i>
-                            </a>
-                          </li>
-                          <li className="wow fadeIn" data-wow-delay=".8s">
-                            <a
-                              href="https://twitter.com/sanajitjana01"
-                              target="newtab"
-                            >
-                              <i
-                                className="fa fa-twitter"
-                                aria-hidden="true"
-                              ></i>
-                            </a>
-                          </li>
-                          <li className="wow fadeIn" data-wow-delay="1s">
-                            <a
-                              href="https://dev.to/sanajitjana"
-                              target="newtab"
-                            >
-                              <i className="fa fa-book" aria-hidden="true"></i>
-                            </a>
-                          </li>
-                        </ul>
-                      </div>
                     </div>
                   </div>
                 </div>
@@ -180,12 +124,12 @@ const Home = () => {
                   <div className="col-md-8 col-sm-6 col-xs-12 about-col">
                     <div className="about-details wow fadeIn">
                       <div className="main-title left-title text-left wow fadeIn">
-                        <h3>Hello! This is Sanajit</h3>
+                        <h3>Hello! This is Kichiro</h3>
                         <div className="underline1 no-margin"></div>
                         <div className="underline2 no-margin"></div>
                       </div>
                       <p className="wow fadeIn">
-                        I am a web developer from Kolkata, India. I enjoy
+                        I am a web developer from Tokyo, Japan. I enjoy
                         building everything from small business sites to rich
                         interactive web apps. if you are a business seeking a
                         web presence or an employer looking to hire, you can get
@@ -209,7 +153,7 @@ const Home = () => {
                       </p>
                       <a
                         className="about-link-1"
-                        href="assets/cv/sanajit-jana-profile.pdf"
+                        href="assets/cv/Warito_resume.pdf"
                         target="_blank"
                       >
                         See Resume
@@ -237,7 +181,7 @@ const Home = () => {
                         <div className="underline2"></div>
                         <p>Web Design Completed</p>
                       </div>
-                    </div>
+                    </div> 
                     <div className="col-md-3 col-sm-6">
                       <div className="work-statistics">
                         <i
@@ -510,165 +454,11 @@ const Home = () => {
                       </div>
                     </div>
                   </div>
-                  {/* <div className="col-md-4 col-sm-4">
-                    <div className="exp-details" data-wow-delay=".4s">
-                      <div className="exp-hover"></div>
-                      <div className="exp-main">
-                        <i
-                          className="fa fa-cogs exp-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3>Supreme Company</h3>
-                        <h4>Designer &amp; Developer</h4>
-                        <h2>2013-2016</h2>
-                        <div className="underline1"></div>
-                        <div className="underline2"></div>
-                        <p>Lorem Ipsum is simply dummy text of the printing.</p>
-                      </div>
-                    </div>
-                  </div> */}
                 </div>
               </div>
             </div>
           </div>
         </div>
-
-        {/* <!-- ================================ WORK =============================== --> */}
-
-        {/* <div id="work">
-          <div className="work-content">
-            <div className="work-grid">
-              <div className="container">
-                <div className="row">
-                  <div className="col-md-12">
-                    <div className="main-title text-center wow fadeIn">
-                      <h3>Work Portfolio</h3>
-                      <div className="underline1"></div>
-                      <div className="underline2"></div>
-                      <p>
-                        Here are a few design projects I've worked on recently.
-                        Want to see more?{" "}
-                        <a className="underline2" href="#contact">
-                          contact me.
-                        </a>
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="container">
-                <div className="gallery" style={{ paddingTop: "80px" }}>
-                  <a href="#">
-                    <div className="gallery-item">
-                      <img
-                        className="gallery-image"
-                        src="https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=500&h=500&fit=crop"
-                        alt="person writing in a notebook beside by an iPad, laptop, printed photos, spectacles, and a cup of coffee on a saucer"
-                      />
-                    </div>
-                  </a>
-                  <a href="#">
-                    <div className="gallery-item">
-                      <img
-                        className="gallery-image"
-                        src="https://images.unsplash.com/photo-1515260268569-9271009adfdb?w=500&h=500&fit=crop"
-                        alt="sunset behind San Francisco city skyline"
-                      />
-                    </div>
-                  </a>
-                  <div className="gallery-item">
-                    <img
-                      className="gallery-image"
-                      src="https://images.unsplash.com/photo-1506045412240-22980140a405?w=500&h=500&fit=crop"
-                      alt="people holding umbrellas on a busy street at night lit by street lights and illuminated signs in Tokyo, Japan"
-                    />
-                  </div>
-                  <a href="#">
-                    <div className="gallery-item">
-                      <img
-                        className="gallery-image"
-                        src="https://images.unsplash.com/photo-1514041181368-bca62cceffcd?w=500&h=500&fit=crop"
-                        alt="car interior from central back seat position showing driver and blurred view through windscreen of a busy road at night"
-                      />
-                    </div>
-                  </a>
-                  <a href="#">
-                    <div className="gallery-item">
-                      <img
-                        className="gallery-image"
-                        src="https://images.unsplash.com/photo-1445810694374-0a94739e4a03?w=500&h=500&fit=crop"
-                        alt="back view of woman wearing a backpack and beanie waiting to cross the road on a busy street at night in New York City, USA"
-                      />
-                    </div>
-                  </a>
-                  <a href="#">
-                    <div className="gallery-item">
-                      <img
-                        className="gallery-image"
-                        src="https://images.unsplash.com/photo-1486334803289-1623f249dd1e?w=500&h=500&fit=crop"
-                        alt="man wearing a black jacket, white shirt, blue jeans, and brown boots, playing a white electric guitar while sitting on an amp"
-                      />
-                    </div>
-                  </a>
-                  <a href="#">
-                    <div className="gallery-item">
-                      <img
-                        className="gallery-image"
-                        src="https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=500&h=500&fit=crop"
-                        alt="person writing in a notebook beside by an iPad, laptop, printed photos, spectacles, and a cup of coffee on a saucer"
-                      />
-                    </div>
-                  </a>
-                  <a href="#">
-                    <div className="gallery-item">
-                      <img
-                        className="gallery-image"
-                        src="https://images.unsplash.com/photo-1515260268569-9271009adfdb?w=500&h=500&fit=crop"
-                        alt="sunset behind San Francisco city skyline"
-                      />
-                    </div>
-                  </a>
-                  <a href="#">
-                    <div className="gallery-item">
-                      <img
-                        className="gallery-image"
-                        src="https://images.unsplash.com/photo-1506045412240-22980140a405?w=500&h=500&fit=crop"
-                        alt="people holding umbrellas on a busy street at night lit by street lights and illuminated signs in Tokyo, Japan"
-                      />
-                    </div>
-                  </a>
-                  <a href="#">
-                    <div className="gallery-item">
-                      <img
-                        className="gallery-image"
-                        src="https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=500&h=500&fit=crop"
-                        alt="person writing in a notebook beside by an iPad, laptop, printed photos, spectacles, and a cup of coffee on a saucer"
-                      />
-                    </div>
-                  </a>
-                  <a href="#">
-                    <div className="gallery-item">
-                      <img
-                        className="gallery-image"
-                        src="https://images.unsplash.com/photo-1515260268569-9271009adfdb?w=500&h=500&fit=crop"
-                        alt="sunset behind San Francisco city skyline"
-                      />
-                    </div>
-                  </a>
-                  <a href="#">
-                    <div className="gallery-item">
-                      <img
-                        className="gallery-image"
-                        src="https://images.unsplash.com/photo-1506045412240-22980140a405?w=500&h=500&fit=crop"
-                        alt="people holding umbrellas on a busy street at night lit by street lights and illuminated signs in Tokyo, Japan"
-                      />
-                    </div>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div> */}
 
         {/* <!-- ============================================== SERVICE ===================================================== --> */}
 
@@ -1095,22 +885,6 @@ const Home = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="row" style={{ textAlign: "center" }}>
-                      <a
-                        href="https://dev.to/sanajitjana"
-                        target="newtab"
-                        className="btn btn-warning"
-                        style={{
-                          width: "50%",
-                          fontSize: "16px",
-                          backgroundColor: "#efd236",
-                          borderColor: "#efd236",
-                          color: "black",
-                        }}
-                      >
-                        More Blog
-                      </a>
-                    </div>
                   </div>
                 </div>
               </div>
@@ -1144,117 +918,6 @@ const Home = () => {
             <div className="contact-grid">
               <div className="contact-form-details wow fadeIn">
                 <div className="container">
-                  {/* <div className="row contact-row">
-                    <div className="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-1 contact-col">
-                      <h3>Write Your Message Here</h3>
-                      <div className="contact-form">
-                        <form
-                          action="https://herokuapp.us6.list-manage.com/subscribe/post?u=870e1b447d1f93893227a9c52&amp;id=85d6c939a5"
-                          method="post"
-                          id="mc-embedded-subscribe-form contactForm"
-                          name="mc-embedded-subscribe-form"
-                          className="contact-form shake validate"
-                          target="_blank" 
-                          data-toggle="validator"
-                          novalidate
-                        >
-                          <div className="form-group">
-                            <div className="controls">
-                              <input
-                                type="text"
-                                name="FLNAME"
-                                id="mce-FLNAME"
-                                className="required form-control"
-                                placeholder="Your Name"
-                                required
-                                data-error="Please enter your name"
-                              />
-                              <div className="help-block with-errors"></div>
-                            </div>
-                          </div>
-                          <div className="form-group">
-                            <div className="controls">
-                              <input
-                                type="email"
-                                className="email required form-control"
-                                name="EMAIL"
-                                id="mce-EMAIL"
-                                placeholder="Your Email"
-                                required
-                                data-error="Please enter your email"
-                              />
-                              <div className="help-block with-errors"></div>
-                            </div>
-                          </div>
-                          <div className="form-group">
-                            <div className="controls">
-                              <input
-                                type="phone"
-                                name="PHONE"
-                                className="phone form-control"
-                                id="phone mce-PHONE"
-                                placeholder="Your Phone"
-                                required
-                                data-error="Please enter your phone"
-                              />
-                              <div className="help-block with-errors"></div>
-                            </div>
-                          </div>
-                          <div className="form-group">
-                            <div className="controls">
-                              <textarea
-                                id="message mce-MESSAGE"
-                                rows="7"
-                                placeholder="Your Massage"
-                                name="MESSAGE"
-                                className="required form-control"
-                                required
-                                data-error="Please enter your message"
-                              ></textarea>
-                              <div className="help-block with-errors"></div>
-                            </div>
-                          </div>
-                          <div id="mce-responses" class="clear">
-                            <div
-                              class="response"
-                              id="mce-error-response"
-                              style={{ display: "none" }}
-                            ></div>
-                            <div
-                              class="response"
-                              id="mce-success-response"
-                              style={{ display: "none" }}
-                            ></div>
-                          </div>
-                          <div
-                            style={{ position: "absolute", left: "-5000px" }}
-                            aria-hidden="true"
-                          >
-                            <input
-                              type="text"
-                              name="b_870e1b447d1f93893227a9c52_85d6c939a5"
-                              tabindex="-1"
-                              value=""
-                            />
-                          </div>
-                          <button
-                            type="submit"
-                            value="Subscribe"
-                            name="subscribe"
-                            id="submit mc-embedded-subscribe"
-                            className="btn btn-success"
-                          >
-                            Send Message
-                          </button>
-                          <div
-                            id="msgSubmit"
-                            className="h3 text-center hidden"
-                          ></div>
-                          <div className="clearfix"></div>
-                        </form>
-                      </div>
-                    </div>
-                  </div> */}
                   <div className="row contact-info-row text-center wow fadeIn">
                     <div className="col-md-3 col-sm-6 contact-colamn">
                       <div className="contact-col-info" data-wow-delay=".2s">
@@ -1263,7 +926,7 @@ const Home = () => {
                           aria-hidden="true"
                         ></i>
                         <h3>Address</h3>
-                        <p>Kolkata, West Bengal, India</p>
+                        <p>Tokyo, Mitaka-shi, Japan</p>
                       </div>
                     </div>
                     <div className="col-md-3 col-sm-6 contact-colamn">
@@ -1274,14 +937,14 @@ const Home = () => {
                         ></i>
                         <h3>Email</h3>
                         <a
-                          href="mailto:contact.sanajitjana@gmail.com"
+                          href="mailto:contact.tonyandrew0308@gmail.com"
                           style={{
                             color: "black",
                             textDecoration: "none",
                             fontSize: "17px",
                           }}
                         >
-                          contact.sanajitjana@gmail.com
+                          tonyandrew0308@gmail.com
                         </a>
                       </div>
                     </div>
@@ -1300,7 +963,7 @@ const Home = () => {
                             fontSize: "17px",
                           }}
                         >
-                          +91 8372876775
+                          +1 702-501-7154
                         </a>
                       </div>
                     </div>
@@ -1311,7 +974,7 @@ const Home = () => {
                           aria-hidden="true"
                         ></i>
                         <h3>Portfolio</h3>
-                        <p>https://sanajitjana.github.io/</p>
+                        <p>https://waritokichiro.github.io/</p>
                       </div>
                     </div>
                   </div>

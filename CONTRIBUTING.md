@@ -4,7 +4,7 @@ First off, thank you for considering contributing to our project! We appreciate 
 
 ## Code of Conduct
 
-This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [mail.sanajitjana@gmail.com].
+This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [mail.tonyandrew0308@gmail.com].
 
 ## How to Contribute
 
@@ -46,7 +46,7 @@ We welcome enhancements! To suggest an enhancement:
 
 ## Development Setup
 
-1. Clone the repository: `git clone https://github.com/sanajitjana/My-Portfolio-v1.git`
+1. Clone the repository: `git clone https://github.com/warkiTech/portfolio_dev.git`
 2. Navigate to the project directory: `cd My-Portfolio-v1`
 3. Install dependencies: `npm install` or `pip install -r requirements.txt`
 
