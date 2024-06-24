@@ -238,7 +238,7 @@ const Home = () => {
                     <div className="underline2"></div>
                     <p>
                       I value simple content structure, clean design patterns,
-                      and thoughtful interactions.
+                      and AI engineering.
                     </p>
                   </div>
                 </div>
@@ -247,13 +247,7 @@ const Home = () => {
                 <div className="col-md-6">
                   <div className="skill-details text-left">
                     <p>
-                      UI/UX involves planning and iterating a site's structure
-                      and layout. Once the proper information architecture is in
-                      place, I design the visual layer to create a beautiful
-                      user experience. Front End Development is building out the
-                      visual components of a website. Using HTML, CSS, and
-                      Javascript, I build fast, interactive websites. This also
-                      may include a CMS, apis, or other integrations. The work
+                      I'm interested in AI engineering and Website development. The work
                       that I am most interested in is 0-1 work (helping you get
                       your idea into the world).
                     </p>
@@ -265,19 +259,34 @@ const Home = () => {
                       <div className="col">
                         <ul id="skill-main">
                           <li>
-                            <h3>HTML / CSS - 97%</h3>
+                            <h3>ML - 85%</h3>
                           </li>
                           <li>
-                            <h3>UI / UX - 92%</h3>
+                            <h3>DL - 70%</h3>
                           </li>
                           <li>
-                            <h3>React JS - 30%</h3>
+                            <h3>RF - 50%</h3>
+                          </li>
+                          <li>
+                            <h3>Trading - 50%</h3>
+                          </li>
+                          <li>
+                            <h3>Django - 85%</h3>
+                          </li>
+                          <li>
+                            <h3>Angular - 62%</h3>
+                          </li>
+                          <li>
+                            <h3>Vue - 75%</h3>
+                          </li>
+                          <li>
+                            <h3>React JS - 90%</h3>
                           </li>
                           <li>
                             <h3>PHP (Laravel) - 93%</h3>
                           </li>
                           <li>
-                            <h3>MySQL - 95%</h3>
+                            <h3>Node.js - 90%</h3>
                           </li>
                         </ul>
                       </div>
@@ -1029,7 +1038,7 @@ const Home = () => {
                           aria-hidden="true"
                         ></i>
                         <h3>Portfolio</h3>
-                        <p>https://waritokichiro.github.io/</p>
+                        <p>https://portfolio-dev-bay-five.vercel.app/</p>
                       </div>
                     </div>
                   </div>
